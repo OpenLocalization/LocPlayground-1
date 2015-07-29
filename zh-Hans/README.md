@@ -1,1 +1,1 @@
-翻译完之后的世界
+Übersetzt in der Welt nach den
