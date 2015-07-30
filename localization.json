@@ -1,5 +1,5 @@
 {
 	"branch": "master",
 	"quality": "machine",
-	"locales": ["zh-CN", "de-DE"]
+	"locales": ["zh-CN", "de-DE", "zh-Hant"]
 }
