@@ -1,5 +1,8 @@
-# LocPlayground
+# Witze
 
-Es gibt nichts Neues unter der Sonne
-
-Und ich habe heute einige Änderungen. Hoppla, wird nicht es zurückgegeben.
+Lehrerin: "Kinder, was das Huhn dir?"
+Student: "Fleisch!"
+Lehrerin: "Sehr gut! Jetzt dir was das Schwein?"
+Student: "Speck!"
+Lehrerin: "groß! Und was die fette Kuh geben Sie?"
+Student: "Hausaufgaben!"
