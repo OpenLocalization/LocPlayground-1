@@ -1,5 +1,8 @@
-# LocPlayground
+# Jokes
 
-There is nothing new under the sun
-
-And I made some changes today. Oops, it won't return.
+Teacher: "Kids,what does the chicken give you?"
+Student: "Meat!"
+Teacher: "Very good! Now what does the pig give you?"
+Student: "Bacon!"
+Teacher: "Great! And what does the fat cow give you?"
+Student: "Homework!"
