@@ -136,7 +136,7 @@
     <value>start</value>
   </data>
   <data name="AppDescription" xml:space="preserve">
-    <value>copy</value>
+    <value>Meet strangers and new friends on this planet</value>
   </data>
   <data name="AppDisplayName" xml:space="preserve">
     <value>Talk to Someone</value>
@@ -172,10 +172,10 @@
     <value>Are you sure you want to permanently delete all conversations?</value>
   </data>
   <data name="DeleteConfirmation" xml:space="preserve">
-    <value>Are you sure you want to permanently delete {0}?</value>
+    <value>No</value>
   </data>
   <data name="FToM" xml:space="preserve">
-    <value>I am a girl looking for a guy</value>
+    <value>copy</value>
   </data>
   <data name="MToF" xml:space="preserve">
     <value>I am a guy looking for a girl</value>
@@ -217,7 +217,7 @@
     <value>Love using Talk to Someone?</value>
   </data>
   <data name="Resend" xml:space="preserve">
-    <value>save</value>
+    <value>Send failed. Click to resend</value>
   </data>
   <data name="SayHello" xml:space="preserve">
     <value>Say Hi</value>
@@ -232,7 +232,7 @@
     <value>Looking for someone...</value>
   </data>
   <data name="SetNickName" xml:space="preserve">
-    <value>set nickname</value>
+    <value>save</value>
   </data>
   <data name="Share" xml:space="preserve">
     <value>share</value>
@@ -296,7 +296,7 @@ Click the + button below to find someone to chat!
     <value>I am a guy looking for a guy</value>
   </data>
   <data name="ReportAbuse" xml:space="preserve">
-    <value>add to blacklist</value>
+    <value>Yes</value>
   </data>
   <data name="ClearMessageConfirmation" xml:space="preserve">
     <value>Are you sure you want to permanently delete all the messages?</value>
@@ -314,7 +314,7 @@ Click the + button below to find someone to chat!
     <value>Image saved successfully</value>
   </data>
   <data name="AudioTooShort" xml:space="preserve">
-    <value>Yes</value>
+    <value>This audio message is too short</value>
   </data>
   <data name="SendAudioCriteria" xml:space="preserve">
     <value>You can only send audio after both of you have sent at least 10 messages</value>
