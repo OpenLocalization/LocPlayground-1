@@ -5,7 +5,7 @@
 	"files": {
 		"md": {
 			"quality": "machine",
-			"locales": ["zh-CN"]
+			"locales": ["zh-CN"],
 			"dest": "<LocPlayground-:locale>"
 		}
 	}
