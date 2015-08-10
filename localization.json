@@ -2,6 +2,7 @@
 	"branch": "master",
 	"quality": "machine",
 	"locales": ["zh-CN", "de-DE", "fr"],
+	
 	"files": {
 		"md": {
 			"quality": "machine",
