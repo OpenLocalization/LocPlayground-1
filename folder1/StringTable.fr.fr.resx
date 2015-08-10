@@ -118,226 +118,226 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AgeVerification" xml:space="preserve">
-    <value>Sie müssen mindestens 13 Jahre alt, diese app zu verwenden sein. Wenn Sie unter 18 sind, verwenden Sie es nur mit einem Elternteil oder Erziehungsberechtigten Berechtigung. Klicken Sie auf Ok, um zu bestätigen, dass Sie über 13 Jahre alt sind.</value>
+    <value>You must be at least 13 years old to use this app. If you are under 18, use it only with a parent or guardian's permission. Click ok to confirm that you are above 13 years old.</value>
   </data>
   <data name="AppBarAttach" xml:space="preserve">
-    <value>Bild</value>
+    <value>image</value>
   </data>
   <data name="AppBarDelete" xml:space="preserve">
-    <value>Konversation zu löschen</value>
+    <value>Delete Conversation</value>
   </data>
   <data name="AppBarDeleteAll" xml:space="preserve">
-    <value>Löschen Sie alle Gespräche</value>
+    <value>Delete All Conversations</value>
   </data>
   <data name="AppBarLeave" xml:space="preserve">
-    <value>Gespräch zu verlassen</value>
+    <value>Leave Conversation</value>
   </data>
   <data name="AppBarNew" xml:space="preserve">
-    <value>Start</value>
+    <value>start</value>
   </data>
   <data name="AppDescription" xml:space="preserve">
-    <value>Fremde und neue Freunde auf diesem Planeten zu erfüllen.</value>
+    <value>copy</value>
   </data>
   <data name="AppDisplayName" xml:space="preserve">
-    <value>Sprechen Sie mit jemandem</value>
+    <value>Talk to Someone</value>
   </data>
   <data name="ChangeLanguage" xml:space="preserve">
-    <value>Sprache</value>
+    <value>language</value>
   </data>
   <data name="ChatMode" xml:space="preserve">
-    <value>Modus</value>
+    <value>mode</value>
   </data>
   <data name="ConnectFailed" xml:space="preserve">
-    <value>Kann nicht Verbindung zum Server im Moment, bitte versuchen Sie später noch einmal.</value>
+    <value>Cannot connect to the server at the moment, please try again later.</value>
   </data>
   <data name="Connecting" xml:space="preserve">
-    <value>Verbindung wird hergestellt...</value>
+    <value>Connecting...</value>
   </data>
   <data name="Conversations" xml:space="preserve">
-    <value>Gespräche</value>
+    <value>conversations</value>
   </data>
   <data name="Copy" xml:space="preserve">
-    <value>Kopie</value>
+    <value>copy</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>Löschen</value>
+    <value>delete</value>
   </data>
   <data name="DeleteAllButFavoriteConfirmation" xml:space="preserve">
-    <value>Sind Sie sicher, dass Sie alle diese Gespräche endgültig löschen möchten?</value>
+    <value>Are you sure you want to permanently delete all these conversations?</value>
   </data>
   <data name="DeleteAllButFavorites" xml:space="preserve">
-    <value>Alle außer Favoriten löschen</value>
+    <value>delete all but favorites</value>
   </data>
   <data name="DeleteAllConfirmation" xml:space="preserve">
-    <value>Sind Sie sicher, dass Sie alle Gespräche endgültig löschen möchten?</value>
+    <value>Are you sure you want to permanently delete all conversations?</value>
   </data>
   <data name="DeleteConfirmation" xml:space="preserve">
-    <value>Sind Sie sicher, dass Sie dauerhaft {0} löschen möchten?</value>
+    <value>Are you sure you want to permanently delete {0}?</value>
   </data>
   <data name="FToM" xml:space="preserve">
-    <value>Ich bin ein Mädchen auf der Suche nach einem Mann</value>
+    <value>I am a girl looking for a guy</value>
   </data>
   <data name="MToF" xml:space="preserve">
-    <value>Ich bin ein Kerl auf der Suche nach einem Mädchen</value>
+    <value>I am a guy looking for a girl</value>
   </data>
   <data name="MyFriend" xml:space="preserve">
-    <value>Mein Freund</value>
+    <value>My Friend</value>
   </data>
   <data name="New" xml:space="preserve">
-    <value>Ein Gespräch zu starten</value>
+    <value>Start a Conversation</value>
   </data>
   <data name="NewMessage" xml:space="preserve">
-    <value>Neue Nachricht</value>
+    <value>New Message</value>
   </data>
   <data name="No" xml:space="preserve">
-    <value>Nicht</value>
+    <value>No</value>
   </data>
   <data name="Options" xml:space="preserve">
-    <value>Optionen</value>
+    <value>Options</value>
   </data>
   <data name="PlaySoundName" xml:space="preserve">
-    <value>Liebe mit jemand sprechen?</value>
+    <value>Play sound when new message arrived</value>
   </data>
   <data name="PreferredLanguage" xml:space="preserve">
-    <value>Akustisches Signal, wenn eine neue Nachricht eingetroffen</value>
+    <value>save</value>
   </data>
   <data name="PrivacyPolicy" xml:space="preserve">
-    <value>Senden fehlgeschlagen. Klicken Sie auf erneut senden</value>
+    <value>Privacy Policy</value>
   </data>
   <data name="Publisher" xml:space="preserve">
-    <value>Chat in folgender Sprache bevorzugen</value>
-  </data>
-  <data name="RandomChat" xml:space="preserve">
-    <value>Sagen Hallo</value>
-  </data>
-  <data name="RateMe" xml:space="preserve">
-    <value>Datenschutz</value>
-  </data>
-  <data name="RateMeDescription" xml:space="preserve">
-    <value>Sag etwas</value>
-  </data>
-  <data name="Resend" xml:space="preserve">
     <value>Yufei</value>
   </data>
+  <data name="RandomChat" xml:space="preserve">
+    <value>Find a random person</value>
+  </data>
+  <data name="RateMe" xml:space="preserve">
+    <value>copy</value>
+  </data>
+  <data name="RateMeDescription" xml:space="preserve">
+    <value>Love using Talk to Someone?</value>
+  </data>
+  <data name="Resend" xml:space="preserve">
+    <value>save</value>
+  </data>
   <data name="SayHello" xml:space="preserve">
-    <value>Suche...</value>
+    <value>Say Hi</value>
   </data>
   <data name="SaySomething" xml:space="preserve">
-    <value>Finden Sie eine zufällige person</value>
+    <value>Say something</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Suchen Sie jemanden...</value>
+    <value>Search...</value>
   </data>
   <data name="Searching" xml:space="preserve">
-    <value>Bewerten Sie</value>
+    <value>save</value>
   </data>
   <data name="SetNickName" xml:space="preserve">
-    <value>Legen Sie nickname</value>
+    <value>set nickname</value>
   </data>
   <data name="Share" xml:space="preserve">
-    <value>Freigeben</value>
+    <value>share</value>
   </data>
   <data name="ShareContent" xml:space="preserve">
-    <value>Ich benutze Rede mit jemandem!</value>
+    <value>I'm using Talk to Someone!</value>
   </data>
   <data name="Theme" xml:space="preserve">
-    <value>Thema</value>
+    <value>Theme</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>Sprechen Sie mit jemandem</value>
+    <value>Talk to Someone</value>
   </data>
   <data name="TypeWatermark" xml:space="preserve">
-    <value>Geben Sie eine Nachricht</value>
+    <value>type a message</value>
   </data>
   <data name="Typing" xml:space="preserve">
-    <value>Jemand ist die Eingabe...</value>
+    <value>Someone is typing...</value>
   </data>
   <data name="Welcome" xml:space="preserve">
-    <value>Es ist einsam hier
+    <value>It is lonely here
 
-Klicken Sie auf die Schaltfläche unten, um jemanden zum chatten finden +!
+Click the + button below to find someone to chat!
 
 </value>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Ja</value>
+    <value>Yes</value>
   </data>
   <data name="Find" xml:space="preserve">
-    <value>finden</value>
+    <value>find</value>
   </data>
   <data name="Stranger" xml:space="preserve">
-    <value>Fremder</value>
+    <value>Stranger</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Sie sparen</value>
+    <value>save</value>
   </data>
   <data name="SendImageCriteria" xml:space="preserve">
-    <value>Sie können nur senden Bild nach dem Sie beide haben mindestens 10 Nachrichten gesendet</value>
+    <value>You can only send image after both of you have sent at least 10 messages</value>
   </data>
   <data name="LikesYou" xml:space="preserve">
-    <value>Sie mag</value>
+    <value>likes you</value>
   </data>
   <data name="PromotionalMessage" xml:space="preserve">
-    <value>Werbemail</value>
+    <value>Promotional message</value>
   </data>
   <data name="Reload" xml:space="preserve">
-    <value>Erhalten Sie fehlgeschlagene. Hier klicken, um erneut herunterladen</value>
+    <value>Receive failed. Click to download again</value>
   </data>
   <data name="ClearMessages" xml:space="preserve">
-    <value>Nachrichten löschen</value>
+    <value>clear messages</value>
   </data>
   <data name="AddAsFriend" xml:space="preserve">
-    <value>als Freund hinzufügen</value>
+    <value>add as friend</value>
   </data>
   <data name="FToF" xml:space="preserve">
-    <value>Ich bin auf der Suche nach einem Mädchen Mädchen</value>
+    <value>I am a girl looking for a girl</value>
   </data>
   <data name="MToM" xml:space="preserve">
-    <value>Ich bin ein Kerl auf der Suche nach einem Mann</value>
+    <value>I am a guy looking for a guy</value>
   </data>
   <data name="ReportAbuse" xml:space="preserve">
-    <value>zur schwarzen Liste hinzufügen</value>
+    <value>add to blacklist</value>
   </data>
   <data name="ClearMessageConfirmation" xml:space="preserve">
-    <value>Sind Sie sicher, dass Sie alle Nachrichten endgültig löschen möchten?</value>
+    <value>Are you sure you want to permanently delete all the messages?</value>
   </data>
   <data name="PushNotificationOff" xml:space="preserve">
-    <value>Schalten Sie die Push-Benachrichtigung</value>
+    <value>turn off push notification</value>
   </data>
   <data name="PushNotificationOn" xml:space="preserve">
-    <value>Aktivieren Sie die Push-Benachrichtigung</value>
+    <value>turn on push notification</value>
   </data>
   <data name="ChangeBackground" xml:space="preserve">
-    <value>halten, zu sprechen</value>
+    <value>change background</value>
   </data>
   <data name="ImageSaved" xml:space="preserve">
-    <value>Hintergrund ändern</value>
+    <value>Image saved successfully</value>
   </data>
   <data name="AudioTooShort" xml:space="preserve">
-    <value>Synchronisieren von...</value>
+    <value>Yes</value>
   </data>
   <data name="SendAudioCriteria" xml:space="preserve">
-    <value>Bild wurde erfolgreich gespeichert</value>
+    <value>You can only send audio after both of you have sent at least 10 messages</value>
   </data>
   <data name="Recording" xml:space="preserve">
-    <value>Zurücksetzen der Hintergrund</value>
+    <value>recording...</value>
   </data>
   <data name="HoldToTalk" xml:space="preserve">
-    <value>Diese audio-Nachricht ist zu kurz</value>
+    <value>hold to talk</value>
   </data>
   <data name="Syncing" xml:space="preserve">
-    <value>Migrieren Ihre Daten, kann dies eine Weile dauern...</value>
+    <value>Syncing...</value>
   </data>
   <data name="ResetBackground" xml:space="preserve">
-    <value>Sie können nur senden Audio nachdem Sie beide haben mindestens 10 Nachrichten gesendet</value>
+    <value>reset background</value>
   </data>
   <data name="Migrating" xml:space="preserve">
-    <value>Jemand hat das Wort...</value>
+    <value>Yes</value>
   </data>
   <data name="Speaking" xml:space="preserve">
-    <value>Aufnahme...</value>
+    <value>Someone is speaking...</value>
   </data>
   <data name="Sex" xml:space="preserve">
-    <value>Geschlecht</value>
+    <value>Sex</value>
   </data>
 </root>
