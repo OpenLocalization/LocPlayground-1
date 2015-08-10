@@ -136,7 +136,7 @@
     <value>start</value>
   </data>
   <data name="AppDescription" xml:space="preserve">
-    <value>copy</value>
+    <value>Meet strangers and new friends on this planet</value>
   </data>
   <data name="AppDisplayName" xml:space="preserve">
     <value>Talk to Someone</value>
@@ -172,10 +172,10 @@
     <value>Are you sure you want to permanently delete all conversations?</value>
   </data>
   <data name="DeleteConfirmation" xml:space="preserve">
-    <value>Are you sure you want to permanently delete {0}?</value>
+    <value>No</value>
   </data>
   <data name="FToM" xml:space="preserve">
-    <value>I am a girl looking for a guy</value>
+    <value>copy</value>
   </data>
   <data name="MToF" xml:space="preserve">
     <value>I am a guy looking for a girl</value>
@@ -217,7 +217,7 @@
     <value>Love using Talk to Someone?</value>
   </data>
   <data name="Resend" xml:space="preserve">
-    <value>save</value>
+    <value>Send failed. Click to resend</value>
   </data>
   <data name="SayHello" xml:space="preserve">
     <value>Say Hi</value>
@@ -247,7 +247,7 @@
     <value>Talk to Someone</value>
   </data>
   <data name="TypeWatermark" xml:space="preserve">
-    <value>type a message</value>
+    <value>save</value>
   </data>
   <data name="Typing" xml:space="preserve">
     <value>Someone is typing...</value>
@@ -278,7 +278,7 @@ Click the + button below to find someone to chat!
     <value>likes you</value>
   </data>
   <data name="PromotionalMessage" xml:space="preserve">
-    <value>Promotional message</value>
+    <value>Yes</value>
   </data>
   <data name="Reload" xml:space="preserve">
     <value>Receive failed. Click to download again</value>
@@ -314,7 +314,7 @@ Click the + button below to find someone to chat!
     <value>Image saved successfully</value>
   </data>
   <data name="AudioTooShort" xml:space="preserve">
-    <value>Yes</value>
+    <value>This audio message is too short</value>
   </data>
   <data name="SendAudioCriteria" xml:space="preserve">
     <value>You can only send audio after both of you have sent at least 10 messages</value>
