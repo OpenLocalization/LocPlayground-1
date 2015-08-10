@@ -6,7 +6,7 @@
 		"md": {
 			"quality": "machine",
 			"locales": ["zh-CN"],
-			"dest": "<LocPlayground-:locale>"
+			"dest": "<LocPlayground.:locale>"
 		}
 	}
 }
