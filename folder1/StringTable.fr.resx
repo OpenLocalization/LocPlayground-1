@@ -166,7 +166,7 @@
     <value>Are you sure you want to permanently delete all these conversations?</value>
   </data>
   <data name="DeleteAllButFavorites" xml:space="preserve">
-    <value>delete all but favorites</value>
+    <value>No</value>
   </data>
   <data name="DeleteAllConfirmation" xml:space="preserve">
     <value>Are you sure you want to permanently delete all conversations?</value>
@@ -208,7 +208,7 @@
     <value>Yufei</value>
   </data>
   <data name="RandomChat" xml:space="preserve">
-    <value>No</value>
+    <value>Find a random person</value>
   </data>
   <data name="RateMe" xml:space="preserve">
     <value>Write a review</value>
@@ -217,10 +217,10 @@
     <value>Love using Talk to Someone?</value>
   </data>
   <data name="Resend" xml:space="preserve">
-    <value>save</value>
+    <value>Send failed. Click to resend</value>
   </data>
   <data name="SayHello" xml:space="preserve">
-    <value>Say Hi</value>
+    <value>Yes</value>
   </data>
   <data name="SaySomething" xml:space="preserve">
     <value>Say something</value>
@@ -232,7 +232,7 @@
     <value>Looking for someone...</value>
   </data>
   <data name="SetNickName" xml:space="preserve">
-    <value>Yes</value>
+    <value>set nickname</value>
   </data>
   <data name="Share" xml:space="preserve">
     <value>share</value>
@@ -266,7 +266,7 @@ Click the + button below to find someone to chat!
     <value>find</value>
   </data>
   <data name="Stranger" xml:space="preserve">
-    <value>Stranger</value>
+    <value>copy</value>
   </data>
   <data name="Save" xml:space="preserve">
     <value>save</value>
@@ -305,7 +305,7 @@ Click the + button below to find someone to chat!
     <value>turn off push notification</value>
   </data>
   <data name="PushNotificationOn" xml:space="preserve">
-    <value>turn on push notification</value>
+    <value>save</value>
   </data>
   <data name="ChangeBackground" xml:space="preserve">
     <value>change background</value>
