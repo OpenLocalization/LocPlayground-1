@@ -10,6 +10,6 @@
 			"dest": "<LocPlayground.:locale>/here"
 		},
 
-		"image": "*.png"
+		"image": "**/*.png"
 	}
 }
