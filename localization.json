@@ -7,6 +7,8 @@
 			"quality": "machine",
 			"locales": ["zh-CN"],
 			"dest": ":locale"
-		}
+		},
+
+		"image": "*.png"
 	}
 }
