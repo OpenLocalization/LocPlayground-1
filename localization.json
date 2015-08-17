@@ -2,11 +2,12 @@
 	"branch": "master",
 	"quality": "machine",
 	"locales": ["zh-CN", "de-DE", "fr"],
+	
 	"files": {
 		"md": {
 			"quality": "machine",
 			"locales": ["zh-CN"],
-			"dest": ":locale"
+			"dest": "<LocPlayground.:locale>/here"
 		},
 
 		"image": "*.png"
